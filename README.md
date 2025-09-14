@@ -13,6 +13,11 @@ A comprehensive machine learning-based system for predicting and visualizing wet
 - **🌐 Professional Interface**: Fully English interface with modern design
 - **⚡ High Performance**: <50ms prediction time, <100ms GUI response
 
+
+## 📁 Example
+
+![images](https://github.com/LIULABNCKU19/SPryT-W/blob/main/example.png)
+
 ## 📁 Project Structure
 
 ```
