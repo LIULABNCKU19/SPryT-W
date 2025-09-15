@@ -4,7 +4,7 @@ A comprehensive machine learning-based system for predicting and visualizing wet
 
 ## 🚀 Features
 
-- **🤖 Machine Learning Prediction**: Gaussian Kernel Ridge Regression model with R² > 0.95
+- **🤖 Machine Learning Prediction**: Gaussian Kernel Ridge Regression model with R² > 0.87 (full fit)
 - **🖥️ Interactive GUI**: Real-time parameter adjustment with intuitive controls
 - **⚗️ Material Composition Control**: 8 alloying elements (Bi, Zn, Ag, Cu, Al, Sb, In, Ni)
 - **🏗️ Substrate Selection**: 7 substrate materials with automatic property lookup
