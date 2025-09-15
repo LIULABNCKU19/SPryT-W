@@ -1,4 +1,4 @@
-# Wetting Angle Prediction & Visualization System
+# Solder Property Simulation Toolkit-Wettability (SPryT-W)
 
 A comprehensive machine learning-based system for predicting and visualizing wetting angles in materials science applications, specifically designed for solder alloy development and surface engineering research.
 
