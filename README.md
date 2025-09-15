@@ -149,25 +149,10 @@ Supported substrate materials with automatic property lookup:
 - **Batch Processing**: Handle large datasets efficiently
 - **Statistical Analysis**: Comprehensive result evaluation tools
 
-## 🚀 Advanced Features
-
-### Standardization Consistency
-- **Training-only Standardization**: Consistent preprocessing across all components
-- **No Training Data Required**: Self-contained model files for deployment
-- **Portable Predictions**: Reliable results across different environments
-
 ### Visualization Capabilities
 - **Geometric Accuracy**: Precise droplet shape representation
 - **Real-time Updates**: Dynamic visualization as parameters change
 - **Professional Quality**: Publication-ready diagrams
-
-## 📚 Documentation
-
-Comprehensive documentation available in the `docs/` directory:
-- **Architecture Diagrams**: System structure and data flow
-- **Academic Description**: 300-word journal article
-- **Technical Analysis**: Standardization and performance studies
-- **Code Architecture**: Detailed flowchart and component relationships
 
 ## 🤝 Contributing
 
