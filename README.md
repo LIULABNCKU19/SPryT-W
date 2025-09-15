@@ -14,7 +14,7 @@ A comprehensive machine learning-based system for predicting and visualizing wet
 - **⚡ High Performance**: <50ms prediction time, <100ms GUI response
 
 
-## 📁 Example
+## 📁 Example (SAC305/Ni-P/Cu reflowed at 240℃)
 
 ![images](https://github.com/LIULABNCKU19/SPryT-W/blob/main/example.png)
 
